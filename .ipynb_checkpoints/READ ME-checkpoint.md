@@ -10,5 +10,7 @@
 
 ​	Anyways! Thank you for downloading and enjoy the horse dispenser!
 
+![that's a lot of horses](https://giphy.com/gifs/horse-inception-YvX6r2p41Ej0A)
+
 
 
