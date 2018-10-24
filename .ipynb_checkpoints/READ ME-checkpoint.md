@@ -12,5 +12,8 @@
 
 ![that's a lot of horses](https://media.giphy.com/media/YvX6r2p41Ej0A/giphy.gif)
 
+[code of conduct](https://www.coca-colacompany.com/content/dam/journey/us/en/private/fileassets/pdf/our-company/2016-COBC-US-Final.pdf)
+[Licensing](http://www.opengamingfoundation.org/ogl.html)
+
 
 
