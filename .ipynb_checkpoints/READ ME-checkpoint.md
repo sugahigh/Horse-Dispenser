@@ -1,6 +1,6 @@
 # READ ME
 
-![horse? horse logo](hhhhh.png)
+![horse? horse logo](https://pbs.twimg.com/media/DqPQGXZWoAU4fbM.jpg)
 
 ​	Hey there! So it seems you've downloaded the ever so lovingly called 'Horse Dispenser'! As you can tell from the title it is! A horse! Dispenser! Fantastic. It's quick and easy process to install this program. (Although if you're reading this you've probably already downloaded and installed this but y'know) Just hit the .exe file for the installer, accept the terms and conditions and voila! Horse dispenser.
 
@@ -10,7 +10,7 @@
 
 ​	Anyways! Thank you for downloading and enjoy the horse dispenser!
 
-![that's a lot of horses](https://giphy.com/gifs/horse-inception-YvX6r2p41Ej0A)
+![that's a lot of horses](https://media.giphy.com/media/YvX6r2p41Ej0A/giphy.gif)
 
 
 
